@@ -1029,7 +1029,7 @@ h6 {
 
 #clients img {
   max-width: 80%;
-  opacity: 0.5;
+  opacity: 0.8;
   transition: 0.3s;
   padding: 15px 0;
 }
@@ -1595,7 +1595,7 @@ h1 span {
 
 .clients-logo {
   display: inline-block;
-  
+
 }
 
 /*cloud: https://stackoverflow.com/questions/30919053/creating-a-responsive-cloud-shape*/
