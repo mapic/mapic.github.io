@@ -1585,8 +1585,11 @@ h1 span {
     font-weight: 600;
 }
 
-.header-scrolled > h1 span {
+#header > h1 span {
   color: #403e66;
+}
+#header.header-scrolled > h1 span {
+  color: #ffa22c;
 }
 
 .main-nav ul li a {
@@ -1599,5 +1602,7 @@ h1 span {
   display: inline-block;
 
 }
+
+
 
 /*cloud: https://stackoverflow.com/questions/30919053/creating-a-responsive-cloud-shape*/
