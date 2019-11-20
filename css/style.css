@@ -1585,11 +1585,15 @@ h1 span {
     font-weight: 600;
 }
 
-#header > h1 span {
+/*#header > h1 span {
   color: #403e66;
 }
 .header-scrolled > h1 span {
   color: #ffa22c;
+}*/
+
+#header.header-scrolled .container .logo > h1 span {
+  color: #ffa22c !important;
 }
 
 .main-nav ul li a {
