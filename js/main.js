@@ -80,6 +80,8 @@
 
   $(window).on('scroll', function () {
     var cur_pos = $(this).scrollTop();
+
+    console.log('cur_pos', cur_pos);
   
     nav_sections.each(function() {
       var top = $(this).offset().top - main_nav_height,
