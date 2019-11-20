@@ -1593,4 +1593,9 @@ h1 span {
     font-size: 1.1rem;
 }
 
+.clients-logo {
+  display: inline-block;
+  
+}
+
 /*cloud: https://stackoverflow.com/questions/30919053/creating-a-responsive-cloud-shape*/
