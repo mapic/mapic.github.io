@@ -1588,7 +1588,7 @@ h1 span {
 #header > h1 span {
   color: #403e66;
 }
-#header.header-scrolled > h1 span {
+.header-scrolled > h1 span {
   color: #ffa22c;
 }
 
