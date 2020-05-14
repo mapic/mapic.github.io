@@ -51,6 +51,7 @@ body {
 	font-size: 19px;
 	background-color: #FEFEFE;
 	color: #04143A;
+	margin: 20px;
 }
 ol, ul {
 	list-style: none;
@@ -453,3 +454,12 @@ li .description {
 
 
 /* End of all :P*/
+
+
+
+
+.trustpilot-local-container {
+	text-align: left;
+	/*width: 400px;*/
+	margin: 10px;
+}
